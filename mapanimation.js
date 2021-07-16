@@ -39,7 +39,7 @@ const busStops = [
       marker.setLngLat(busStops[counter]);
       counter++;
       move();
-    } , 1000)
+    } , 2000)
     
     // TODO: move the marker on the map every 1000ms. Use the function marker.setLngLat() to update the marker coordinates
     // Use counter to access bus stops in the array busStops
