@@ -1,7 +1,7 @@
 Bus Tracker Exercise
 
 
-The bus tracker Exercise was a fun one. In this project the object was to track the bus stops between MIT and Harvard. To use this page, you just click the button that says “Show the Stops Along the Way” and the tracker will stop at all the bus stops.
+The bus tracker Exercise was a fun one. In this project the object was to track the bus stops between MIT and Harvard. To use this page, you just click the button that says Show the Stops Along the Way and the tracker will stop at all the bus stops.
 
 In the future I plan to add more stops and possibly change the location.
 
